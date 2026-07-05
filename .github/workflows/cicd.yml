@@ -1,0 +1,13 @@
+name: CICD
+
+on:
+  workflow_dispatch: 
+
+jobs:
+  code:
+  
+  build:
+  
+  test:
+  
+  deploy:
